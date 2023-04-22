@@ -1,0 +1,9 @@
+export const CHANGE_USER_NAME = 'CHANGE_USER_NAME';
+export const SHUFFLE_DECK = 'SHUFFLE_DECK';
+export const SHUFFLE_COMP_DECK = 'SHUFFLE_COMP_DECK';
+export const SHUFFLE_USER_DECK = 'SHUFFLE_USER_DECK';
+export const DRAW_COMP_CARD = 'DRAW_COMP_CARD';
+export const DRAW_USER_CARD = 'DRAW_USER_CARD';
+export const COMP_POINT = 'COMP_POINT';
+export const USER_POINT = 'USER_POINT';
+export const RENEW_POINTS = 'RENEW_POINTS';
